@@ -1,5 +1,6 @@
-#Arsitektur Sistem Akademik Kampus
-##Pola/Gaya Arsitektur yang Digunakan
+# Arsitektur Sistem Akademik Kampus
+
+## Pola/Gaya Arsitektur yang Digunakan
  Sistem Akademik Kampus menggunakan Layered Architecture (Arsitektur Berlapis) dengan pola Client-Server.
 
 1. Layered Architecture
